@@ -15,37 +15,37 @@ https://docs.google.com/spreadsheets/d/1ETE1frfop19VkJ51jYp-7zzYH8Si5VuuQvWtz22W
 3. https://www.codeschool.com/courses/discover-devtools (Short, free online course. Deadline: __7-Jun-2016__ )
 4. Codewars 
   - Part I (Deadline: __4-Jun-2016__)
-     - http://www.codewars.com/kata/opposite-number
-     - http://www.codewars.com/kata/basic-mathematical-operations
-     - http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
-     - http://www.codewars.com/kata/transportation-on-vacation
-     - http://www.codewars.com/kata/calculating-with-functions
-     - http://www.codewars.com/kata/get-the-middle-character
-     - http://www.codewars.com/kata/partition-on
-     - http://www.codewars.com/kata/word-count
-     - http://www.codewars.com/kata/remove-first-and-last-character-part-two
-     - http://www.codewars.com/kata/implement-a-filter-function
-     - http://www.codewars.com/kata/prefill-an-array
-     - http://www.codewars.com/kata/cross-product-of-vectors
-     - http://www.codewars.com/kata/sequence-generator-1
+     - <s>http://www.codewars.com/kata/opposite-number</s>
+     - <s>http://www.codewars.com/kata/basic-mathematical-operations</s>
+     - <s>http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters</s>
+     - <s>http://www.codewars.com/kata/transportation-on-vacation</s>
+     - <s>http://www.codewars.com/kata/calculating-with-functions</s>
+     - <s>http://www.codewars.com/kata/get-the-middle-character</s>
+     - <s>http://www.codewars.com/kata/partition-on</s>
+     - <s>http://www.codewars.com/kata/word-count</s>
+     - <s>http://www.codewars.com/kata/remove-first-and-last-character-part-two</s>
+     - <s>http://www.codewars.com/kata/implement-a-filter-function</s>
+     - <s>http://www.codewars.com/kata/prefill-an-array</s>
+     - <s>http://www.codewars.com/kata/cross-product-of-vectors</s>
+     - <s>http://www.codewars.com/kata/sequence-generator-1</s>
   - Part II (Deadline: __11-Jun-2016__)
-     - http://www.codewars.com/kata/closures-and-scopes
-     - http://www.codewars.com/kata/a-function-within-a-function
-     - http://www.codewars.com/kata/can-you-keep-a-secret
-     - http://www.codewars.com/kata/using-closures-to-share-class-state
-     - http://www.codewars.com/kata/a-chain-adding-function
-     - http://www.codewars.com/kata/function-cache
-     - http://www.codewars.com/kata/function-composition
-     - http://www.codewars.com/kata/function-composition-1
-     - http://www.codewars.com/kata/stringing-me-along
-     - http://www.codewars.com/kata/i-spy
+     - <s>http://www.codewars.com/kata/closures-and-scopes</s>
+     - <s>http://www.codewars.com/kata/a-function-within-a-function</s>
+     - <s>http://www.codewars.com/kata/can-you-keep-a-secret</s>
+     - <s>http://www.codewars.com/kata/using-closures-to-share-class-state</s>
+     - <s>http://www.codewars.com/kata/a-chain-adding-function</s>
+     - <s>http://www.codewars.com/kata/function-cache</s>
+     - <s>http://www.codewars.com/kata/function-composition</s>
+     - <s>http://www.codewars.com/kata/function-composition-1</s>
+     - <s>http://www.codewars.com/kata/stringing-me-along</s>
+     - <s>http://www.codewars.com/kata/i-spy</s>
   - Part III (Deadline: __15-Jun-2016__)
-     - http://www.codewars.com/kata/santaclausable-interface
+     - <s>http://www.codewars.com/kata/santaclausable-interface</s>
      - http://www.codewars.com/kata/new-with-apply
-     - http://www.codewars.com/kata/extract-nested-object-reference
-     - http://www.codewars.com/kata/array-helpers
+     - <s>http://www.codewars.com/kata/extract-nested-object-reference</s>
+     - <s>http://www.codewars.com/kata/array-helpers</s>
      - http://www.codewars.com/kata/replicate-new
-     - http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
+     - <s>http://www.codewars.com/kata/sum-of-digits-slash-digital-root/</s>
      - http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
      - http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
 5. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: __20-Jun-2016__)
